@@ -1,7 +1,7 @@
 # pluggable-bashrc
 A collection of bashrc tweaks wrapped up as includes. Pick and choose what you like!
 
-**Setup**
+# Setup
 
 First, back up your current .bashrc file. You may want to move/copy it into the includes in a moment.
 
@@ -12,6 +12,6 @@ The initial requirements are to use these files:
 
 Now pick a few .inc files from the repo and place them in the appropriate directory.
 
-*Without logging out of your current session*, Log in with a new terminal to verify that the plugin works.
+**Without logging out of your current session**, Log in with a new terminal to verify that the plugin works.
 
 Once verified, you can optionally close your original terminal session.
