@@ -15,3 +15,5 @@ Now pick a few .inc files from the repo and place them in the appropriate direct
 **Without logging out of your current session**, Log in with a new terminal to verify that the plugin works.
 
 Once verified, you can optionally close your original terminal session.
+
+Lastly, verify that the include directories you created are not writable by anyone by owner. You don't want someone dropping malicious includes in there.
