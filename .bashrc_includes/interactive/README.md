@@ -5,4 +5,4 @@
  * **811-bash-history-deduplication.inc**: Bash history deduplication
  * **900-bash-autocomplete.inc**: Bash autocompletion
  * **900-grep-opts.inc**: Grep tweaks for better tail handling, and colorized output
- * **900-mysql-history-tweaks.inc**: MySQL/MariaDB history by hostname. Same sort of goodness found in the…
+ * **900-mysql-history-tweaks.inc**: MySQL/MariaDB query history by hostname
