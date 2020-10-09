@@ -16,4 +16,4 @@ Now pick a few .inc files from the repo and place them in the appropriate direct
 
 Once verified, you can optionally close your original terminal session.
 
-Lastly, verify that the include directories you created are not writable by anyone by owner. You don't want someone dropping malicious includes in there.
+Lastly, verify that the include directories you created are not writable by anyone but owner. You don't want someone dropping malicious includes in there.
